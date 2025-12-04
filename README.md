@@ -21,10 +21,13 @@ An interactive Power BI dashboard designed to analyze beverage sales across regi
 📸 Dashboard Screenshots
 🔹 Full Dashboard
 <img src="./img/Dashboard.png" width="850">
-🔹 Dashboard With Month Slicer
-<img src="./img/With%201%20slicer.png" width="850">
-🔹 Dashboard With Month + Brand Slicer
+
+🔹 Dashboard With 1 Slicer
 <img src="./img/With%20both%20slicer.png" width="850">
+
+🔹 Dashboard With Month + Brand Slicer
+<img src="./img/With%201%20slicer.png" width="850">
+
 
 📂 Project Files Included
 File	Description
